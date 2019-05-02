@@ -1,0 +1,22 @@
+{
+  "name": "voice-tools",
+  "version": "0.0.1",
+  "description": "Code to help speed up voice development (Alexa and Google Home)",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimgrady/voice-tools.git"
+  },
+  "keywords": [],
+  "author": "James B. Grady",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimgrady/voice-tools/issues"
+  },
+  "homepage": "https://github.com/jimgrady/voice-tools#readme"
+}
