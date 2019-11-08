@@ -1,27 +1,53 @@
 {
-  "name": "voice-tools",
-  "version": "0.0.1",
+  "_from": "git+file:///Users/jamesgrady/Documents/voice-tools#shared-working",
+  "_id": "voice-tools@0.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/voice-tools",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "voice-tools@git+file:///Users/jamesgrady/Documents/voice-tools#shared-working",
+    "name": "voice-tools",
+    "escapedName": "voice-tools",
+    "rawSpec": "git+file:///Users/jamesgrady/Documents/voice-tools#shared-working",
+    "saveSpec": "git+file:///Users/jamesgrady/Documents/voice-tools#shared-working",
+    "fetchSpec": "file:///Users/jamesgrady/Documents/voice-tools",
+    "gitCommittish": "shared-working"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+file:///Users/jamesgrady/Documents/voice-tools#078ac48e1b4fec01f34296f4b329f707b0d25ddd",
+  "_spec": "voice-tools@git+file:///Users/jamesgrady/Documents/voice-tools#shared-working",
+  "_where": "/Users/jamesgrady/Documents/Time_Tracker_by_eBillity/lambda",
+  "author": {
+    "name": "James B. Grady"
+  },
+  "bugs": {
+    "url": "https://github.com/jimgrady/voice-tools/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "ask-sdk": "^2.6.0",
+    "aws-sdk": "^2.488.0",
+    "node-rest-client-promise": "^3.1.1"
+  },
+  "deprecated": false,
   "description": "Code to help speed up voice development (Alexa and Google Home)",
   "directories": {
     "lib": "lib"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "homepage": "https://github.com/jimgrady/voice-tools#readme",
+  "keywords": [],
+  "license": "MIT",
+  "name": "voice-tools",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jimgrady/voice-tools.git"
   },
-  "keywords": [],
-  "author": "James B. Grady",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jimgrady/voice-tools/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/jimgrady/voice-tools#readme",
-  "dependencies": {
-    "airtable": "^0.5.10",
-    "aws-sdk": "^2.492.0",
-    "node-rest-client-promise": "^3.1.1"
-  }
+  "version": "0.0.1"
 }
