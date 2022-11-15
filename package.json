@@ -1,6 +1,6 @@
 {
   "name": "voice-tools",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Code to help speed up voice development (Alexa and Google Home)",
   "directories": {
     "lib": "lib"
