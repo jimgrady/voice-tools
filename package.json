@@ -1,6 +1,6 @@
 {
   "name": "voice-tools",
-  "version": "0.0.1",
+  "version": "0.1.6b",
   "description": "Code to help speed up voice development (Alexa and Google Home)",
   "directories": {
     "lib": "lib"
@@ -30,6 +30,8 @@
     "eslint-config-standard": "^16.0.2",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^4.2.1"
+    "eslint-plugin-promise": "^4.2.1",
+    "@babel/eslint-parser": "^7.12.16",
+    "@babel/plugin-proposal-class-properties": "^7.12.13"
   }
 }
